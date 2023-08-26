@@ -14,5 +14,3 @@ for  student in student_heights:
 
 average_student_height = round(total_heights / total_students)
 print(f"El promedio de altura de los estudiantes es de {average_student_height} cm")
-
-# Proving github
